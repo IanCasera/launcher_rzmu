@@ -1,7 +1,6 @@
 {
-  "remoteConfigUrl": "https://raw.githubusercontent.com/IanCasera/launcher_rzmu/main/launcher_config.json",
-  "launcherPath": "RzLaunch.exe",
-  "mainExe": "Main.exe",
+  "latestVersion": "1.0.9",
+  "patchUrl": "https://github.com/IanCasera/launcher_rzmu/releases/download/v1.0.9/Version1.0.9.zip",
   "launcherVersion": "1.0.0",
-  "notes": "Version1.0.9."
+  "notes": "Patch v1.0.9"
 }
